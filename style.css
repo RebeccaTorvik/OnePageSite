@@ -1,0 +1,37 @@
+/* #nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+#nav ul li a {
+    text-align: center;
+    display: block;
+    width: 176px;
+    padding: 1%, 0;
+    text-decoration: none;
+    background-color: gray;
+}
+
+*/
+
+#nav ul {
+    list-style-type: none;
+}
+
+#nav ul li {
+    float: left;
+}
+
+#nav ul li a {
+    text-align: center;
+    display: block;
+    width: 200px;
+    padding: 10% 0;
+    text-decoration: none;
+    background-color: gray;
+    color: white;
+    border-right: 2px solid white;
+}
+
+
+
